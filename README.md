@@ -5,7 +5,7 @@ Run locally
 3.	Run npm start
 4.	Visit http://localhost:3000
 Deployed API URL
-
+https://deploying-your-first-api-kkab.onrender.com/
 API Endpoints
 •	GET /api/students → returns all students
 •	POST /api/students → add a student
